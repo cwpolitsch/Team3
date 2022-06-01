@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 using System.Media;
 
 namespace MiddleSchoolPortal
@@ -20,12 +21,14 @@ namespace MiddleSchoolPortal
         CurrencyManager stuManager;
         private void frmStudent_Load(object sender, EventArgs e)
         {
-
+            ProgOps.OpenDatabase();
+            ProgOps.DatabaseCommand(tbxFirstName, tbxLastName);
+            stuManager = (CurrencyManager)this.BindingContext[ProgOps.DTStudentsTable];
         }
 
         private void frmStudent_FormClosing(object sender, FormClosingEventArgs e)
         {
-            //ProgOps.Dispose();
+            ProgOps.Dispose();
             Application.Exit();
         }
 
