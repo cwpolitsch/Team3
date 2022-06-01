@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\team3testproject"
+    "\\team3testproject",
+    "\\team3testproject\\bin",
+    "\\team3testproject\\bin\\Release",
+    "\\team3testproject\\obj",
+    "\\team3testproject\\obj\\Debug",
+    "\\team3testproject\\obj\\Release",
+    "\\team3testproject\\Properties"
   ],
-  "SelectedNode": "\\team3testproject\\Form1.resx",
+  "SelectedNode": "\\team3testproject\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

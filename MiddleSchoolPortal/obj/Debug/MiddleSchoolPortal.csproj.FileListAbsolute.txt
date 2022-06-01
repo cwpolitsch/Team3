@@ -1,0 +1,11 @@
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.exe.config
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.exe
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.pdb
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.AssemblyReference.cache
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.frmMain.resources
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.frmStudent.resources
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.Properties.Resources.resources
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.GenerateResource.cache
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.CoreCompileInputs.cache
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.exe
+D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.pdb
