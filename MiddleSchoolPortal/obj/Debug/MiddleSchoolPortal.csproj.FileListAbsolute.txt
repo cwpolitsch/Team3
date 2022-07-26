@@ -9,3 +9,14 @@ D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.
 D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.CoreCompileInputs.cache
 D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.exe
 D:\INEW_2330_Project\Team3Test3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.pdb
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.exe.config
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.exe
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\bin\Debug\MiddleSchoolPortal.pdb
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.AssemblyReference.cache
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.frmMain.resources
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.frmStudent.resources
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.Properties.Resources.resources
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.GenerateResource.cache
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.csproj.CoreCompileInputs.cache
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.exe
+C:\Users\mo686\Source\Repos\Team3\MiddleSchoolPortal\obj\Debug\MiddleSchoolPortal.pdb

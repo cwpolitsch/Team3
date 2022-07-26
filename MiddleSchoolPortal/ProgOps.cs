@@ -60,7 +60,7 @@ namespace MiddleSchoolPortal
             try
             {
                 //string to build query
-                string query = "SELECT * FROM Students ORDER BY StudentID";
+                string query = "SELECT * FROM group3su222330.students ORDER BY StudentID";
 
                 //establisch command object
                 _sqlStudentsCommand = new SqlCommand(query, _cntDatabase);

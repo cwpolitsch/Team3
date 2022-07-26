@@ -39,7 +39,7 @@ namespace MiddleSchoolPortal
             // 
             // btnLogOn
             // 
-            this.btnLogOn.Location = new System.Drawing.Point(276, 309);
+            this.btnLogOn.Location = new System.Drawing.Point(241, 264);
             this.btnLogOn.Name = "btnLogOn";
             this.btnLogOn.Size = new System.Drawing.Size(75, 23);
             this.btnLogOn.TabIndex = 0;
@@ -49,22 +49,22 @@ namespace MiddleSchoolPortal
             // 
             // tbxUserName
             // 
-            this.tbxUserName.Location = new System.Drawing.Point(357, 117);
+            this.tbxUserName.Location = new System.Drawing.Point(241, 121);
             this.tbxUserName.Name = "tbxUserName";
-            this.tbxUserName.Size = new System.Drawing.Size(100, 20);
+            this.tbxUserName.Size = new System.Drawing.Size(148, 20);
             this.tbxUserName.TabIndex = 1;
             // 
             // tbxPassword
             // 
-            this.tbxPassword.Location = new System.Drawing.Point(357, 184);
+            this.tbxPassword.Location = new System.Drawing.Point(241, 181);
             this.tbxPassword.Name = "tbxPassword";
-            this.tbxPassword.Size = new System.Drawing.Size(100, 20);
+            this.tbxPassword.Size = new System.Drawing.Size(148, 20);
             this.tbxPassword.TabIndex = 2;
             // 
             // lblUsername
             // 
             this.lblUsername.AutoSize = true;
-            this.lblUsername.Location = new System.Drawing.Point(205, 124);
+            this.lblUsername.Location = new System.Drawing.Point(177, 124);
             this.lblUsername.Name = "lblUsername";
             this.lblUsername.Size = new System.Drawing.Size(58, 13);
             this.lblUsername.TabIndex = 3;
@@ -73,7 +73,7 @@ namespace MiddleSchoolPortal
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(205, 191);
+            this.label1.Location = new System.Drawing.Point(179, 184);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 13);
             this.label1.TabIndex = 4;
@@ -84,7 +84,7 @@ namespace MiddleSchoolPortal
             this.lblForgot.AutoSize = true;
             this.lblForgot.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblForgot.ForeColor = System.Drawing.Color.Blue;
-            this.lblForgot.Location = new System.Drawing.Point(273, 258);
+            this.lblForgot.Location = new System.Drawing.Point(238, 220);
             this.lblForgot.Name = "lblForgot";
             this.lblForgot.Size = new System.Drawing.Size(91, 13);
             this.lblForgot.TabIndex = 5;
