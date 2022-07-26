@@ -1,0 +1,14 @@
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\bin\Debug\guiMockUp.exe.config
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\bin\Debug\guiMockUp.exe
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\bin\Debug\guiMockUp.pdb
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.csproj.AssemblyReference.cache
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.frmMain.resources
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.Properties.Resources.resources
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.csproj.GenerateResource.cache
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.csproj.CoreCompileInputs.cache
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.exe
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.pdb
+C:\Users\Tristen\Desktop\Summer 22\2330 CompSoft Plan Design\GUI MOCK UP\guiMockUp\obj\Debug\guiMockUp.frmStudents.resources
+E:\School\Second to last semester\MainProj2330\MainProj2330\guiMockUp\obj\Debug\guiMockUp.csproj.AssemblyReference.cache
+E:\School\Second to last semester\MainProj2330\MainProj2330\guiMockUp\obj\Debug\guiMockUp.exe
+E:\School\Second to last semester\MainProj2330\MainProj2330\guiMockUp\obj\Debug\guiMockUp.pdb
